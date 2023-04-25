@@ -37,4 +37,4 @@ To install and use the extension:
 - In the "Add extension" dialog, select "Python" as the "Extension type", click "Select file..." to locate the Copy-as-Fetch.py file, and then click "Next".
 - The extension should now be loaded, and you will see "Copy as Fetch" option when you right-click on a request in the HTTP history or any other request viewer/editor.
 
-Inspired by all the other "Copy as..." extensions in the Burp Extension store :D
+Inspired by all the other "Copy as..." extensions in the Burp Extension store :grin:
