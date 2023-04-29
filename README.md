@@ -1,4 +1,4 @@
-# Copy as Fetch
+# HTTP Request Converter
 ## What it does
 Burp Suite extension that adds a menu entry to convert a request to a JavaScript fetch request and copy it to the clipboard:
 
